@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on  Open Source 
 - 📫 How to reach me
         - Twitter : https://twitter.com/UmeshKumar00143\
-        -  Linkden: https://www.linkedin.com/in/umesh-kumar01/
+        -  Linkeden: https://www.linkedin.com/in/umesh-kumar01/
   
 
 <!---
