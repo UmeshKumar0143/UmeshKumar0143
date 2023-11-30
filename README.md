@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @UmeshKumar0143
 - 👀 I’m interested in WebDevlopment 🤟
 - 🌱 I’m currently learning Javascript and nodejs 😄
-- 💞️ I’m looking to collaborate on  Open Source :fac
-- 📫 How to reach me Twitter : https://twitter.com/UmeshKumar00143\
- - Linkden: https://www.linkedin.com/in/umesh-kumar01/
+- 💞️ I’m looking to collaborate on  Open Source 
+- 📫 How to reach me
+        - Twitter : https://twitter.com/UmeshKumar00143\
+        -  Linkden: https://www.linkedin.com/in/umesh-kumar01/
   
 
 <!---
