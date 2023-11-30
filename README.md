@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript and nodejs 😄
 - 💞️ I’m looking to collaborate on  Open Source :fac
 - 📫 How to reach me Twitter : https://twitter.com/UmeshKumar00143\
-                      Linkden: https://www.linkedin.com/in/umesh-kumar01/
+ - Linkden: https://www.linkedin.com/in/umesh-kumar01/
   
 
 <!---
