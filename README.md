@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **umeshkumar153654@gmail.com**
 
-- ⚡ Fun fact **I am Hard Working and passioanate**
+- ⚡ Fun fact **I am Quick Learner and passioanate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
