@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQH3ai51XfTsdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706859463644?e=1733356800&v=beta&t=PnjyvD1l26ZXQ1QLR79Kqv-W8Oq320VIPduNP16tBXk)
 
 
-<h1 aling="center">A 20 Year old  Developer From India  Currently Learning Full Stack WebDevelopment </h1> 
+<h1 aling="center">A 20 Year old  Full Stack WebDevloper from India </h1> 
 
 
 
