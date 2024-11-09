@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Umesh Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshkumar0143&label=Profile%20views&color=0e75b6&style=flat" alt="umeshkumar0143" /> </p>
+
 <p align="left"> <a href="https://twitter.com/umeshkumar00143" target="blank"><img src="https://img.shields.io/twitter/follow/umeshkumar00143?logo=twitter&style=for-the-badge" alt="umeshkumar00143" /></a> </p>
 
 - 🌱 I’m currently learning **react and next**
@@ -29,6 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umeshkumar0143&show_icons=true&locale=en" alt="umeshkumar0143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshkumar0143&" alt="umeshkumar0143" /></p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
