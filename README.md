@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQH3ai51XfTsdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706859463644?e=1740009600&v=beta&t=A-E4d_GE3DF7ohNliFsrLqNW_tqBma8M9GDV38av_is)
 
 
-<h1 align="center">Hi 👋, I'm Umesh Kumar</h1>
+<h1 align="center">Hi , I'm Umesh Kumar</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshkumar0143&label=Profile%20views&color=0e75b6&style=flat" alt="umeshkumar0143" /> </p>
