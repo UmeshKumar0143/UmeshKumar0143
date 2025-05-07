@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/umeshkumar00143" target="blank"><img src="https://img.shields.io/twitter/follow/umeshkumar00143?logo=twitter&style=for-the-badge" alt="umeshkumar00143" /></a> </p>
 
-- 🌱 I’m currently learning **react and next**
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate on **Open Source Porjects**
 
-- 💬 Ask me about **WebDevelopment**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **umeshkumar153654@gmail.com**
 
